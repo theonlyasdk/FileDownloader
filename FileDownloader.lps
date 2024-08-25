@@ -8,9 +8,10 @@
       <Unit>
         <Filename Value="FileDownloader.lpr"/>
         <IsPartOfProject Value="True"/>
-        <TopLine Value="25"/>
-        <CursorPos X="49" Y="106"/>
-        <UsageCount Value="37"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="97"/>
+        <CursorPos X="70" Y="107"/>
+        <UsageCount Value="40"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
@@ -20,11 +21,10 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="MainForm"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="2"/>
         <TopLine Value="144"/>
         <CursorPos X="84" Y="159"/>
-        <UsageCount Value="37"/>
+        <UsageCount Value="40"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit>
@@ -38,7 +38,7 @@
         <EditorIndex Value="5"/>
         <TopLine Value="14"/>
         <CursorPos Y="32"/>
-        <UsageCount Value="37"/>
+        <UsageCount Value="40"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit>
@@ -52,7 +52,7 @@
         <EditorIndex Value="4"/>
         <TopLine Value="15"/>
         <CursorPos Y="43"/>
-        <UsageCount Value="36"/>
+        <UsageCount Value="39"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit>
@@ -63,7 +63,16 @@
         <EditorIndex Value="3"/>
         <TopLine Value="241"/>
         <CursorPos X="41" Y="253"/>
-        <UsageCount Value="36"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="versionsupport.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="VersionSupport"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="34" Y="8"/>
+        <UsageCount Value="25"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
@@ -122,15 +131,6 @@
         <UnitName Value="FormOpenSourceLicenses"/>
         <EditorIndex Value="-1"/>
         <UsageCount Value="20"/>
-      </Unit>
-      <Unit>
-        <Filename Value="versionsupport.pas"/>
-        <IsPartOfProject Value="True"/>
-        <UnitName Value="VersionSupport"/>
-        <EditorIndex Value="1"/>
-        <CursorPos X="34" Y="8"/>
-        <UsageCount Value="22"/>
-        <Loaded Value="True"/>
       </Unit>
     </Units>
     <JumpHistory HistoryIndex="29">

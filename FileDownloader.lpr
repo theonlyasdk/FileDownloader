@@ -108,7 +108,7 @@ begin
     end;
 
     RequireDerivedFormResource := True;
-  Application.Scaled:=True;
+    Application.Scaled := True;
     PreferredAppMode := pamAllowDark;
     uMetaDarkStyle.ApplyMetaDarkStyle(DefaultDark);
     Application.Initialize;

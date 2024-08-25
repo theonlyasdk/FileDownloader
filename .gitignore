@@ -1,0 +1,11 @@
+*.res
+*.bak
+*.ppu
+*.ppl
+*.o
+*.a
+*.dll
+*.exe
+LICENSE.txt
+/backup
+/lib

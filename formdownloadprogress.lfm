@@ -1,0 +1,85 @@
+object FDownloadProgress: TFDownloadProgress
+  Left = 280
+  Height = 197
+  Top = 250
+  Width = 377
+  BorderStyle = bsDialog
+  Caption = 'Waiting...'
+  ClientHeight = 197
+  ClientWidth = 377
+  Position = poOwnerFormCenter
+  object LblDownloading: TLabel
+    Left = 16
+    Height = 47
+    Top = 9
+    Width = 157
+    Caption = 'Waiting...'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -35
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object BtnCancel: TButton
+    Left = 298
+    Height = 25
+    Top = 168
+    Width = 75
+    Anchors = [akRight, akBottom]
+    Caption = 'Cancel'
+    TabOrder = 0
+    OnClick = BtnCancelClick
+  end
+  object DlProgress: TProgressBar
+    Left = 16
+    Height = 27
+    Top = 72
+    Width = 351
+    Anchors = [akTop, akLeft, akRight]
+    Smooth = True
+    Style = pbstMarquee
+    TabOrder = 1
+  end
+  object LblDlSpeed: TLabel
+    Left = 16
+    Height = 15
+    Top = 167
+    Width = 67
+    Anchors = [akLeft, akBottom]
+    Caption = 'Speed: 0kb/s'
+  end
+  object LblTimeElapsed: TLabel
+    Left = 16
+    Height = 15
+    Top = 151
+    Width = 84
+    Anchors = [akLeft, akBottom]
+    Caption = 'Elapsed time: 0s'
+  end
+  object LblRemaining: TLabel
+    Left = 16
+    Height = 15
+    Top = 135
+    Width = 73
+    Anchors = [akLeft, akBottom]
+    Caption = 'Remaining %:'
+  end
+  object LblRecieved: TLabel
+    Left = 16
+    Height = 15
+    Top = 108
+    Width = 351
+    Alignment = taCenter
+    Anchors = [akTop, akLeft, akRight]
+    AutoSize = False
+    Caption = '% Recieved'
+    Font.CharSet = ANSI_CHARSET
+    Font.Height = -13
+    Font.Name = 'Segoe UI Semibold'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+end

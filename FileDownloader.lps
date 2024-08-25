@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Release"/>
+    <Units>
+      <Unit>
+        <Filename Value="FileDownloader.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="25"/>
+        <CursorPos X="49" Y="106"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="mainform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainForm"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="144"/>
+        <CursorPos X="84" Y="159"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="formabout.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FAbout"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="FormAbout"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="14"/>
+        <CursorPos Y="32"/>
+        <UsageCount Value="37"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="formdownloadprogress.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FDownloadProgress"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="FormDownloadProgress"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="15"/>
+        <CursorPos Y="43"/>
+        <UsageCount Value="36"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="udownload.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uDownload"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="241"/>
+        <CursorPos X="41" Y="253"/>
+        <UsageCount Value="36"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\comctrls.pp"/>
+        <UnitName Value="ComCtrls"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="14" Y="1892"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\win\wininc\ascdef.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="63"/>
+        <CursorPos X="10" Y="75"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="423"/>
+        <CursorPos X="3" Y="432"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\win\wininc\base.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="89"/>
+        <CursorPos X="6" Y="101"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\win\sysosh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="16" Y="19"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\osutilsh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2"/>
+        <CursorPos X="10" Y="27"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\ide\udarkstyle.pas"/>
+        <UnitName Value="uDarkStyle"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="38"/>
+        <CursorPos X="24" Y="49"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="formopensourcelicenses.pas"/>
+        <ComponentName Value="FOSSLicenses"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="FormOpenSourceLicenses"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="versionsupport.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="VersionSupport"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="34" Y="8"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="FileDownloader.lpr"/>
+        <Caret Line="48" Column="21" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="FileDownloader.lpr"/>
+        <Caret Line="38" Column="7" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="FileDownloader.lpr"/>
+        <Caret Line="42" Column="5" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="FileDownloader.lpr"/>
+        <Caret Line="38" Column="13" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="FileDownloader.lpr"/>
+        <Caret Line="39" Column="3" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="FileDownloader.lpr"/>
+        <Caret Line="52" Column="318" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="FileDownloader.lpr"/>
+        <Caret Line="82" Column="12" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="FileDownloader.lpr"/>
+        <Caret Line="32" Column="87" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="FileDownloader.lpr"/>
+        <Caret Line="61" Column="9" TopLine="29"/>
+      </Position>
+      <Position>
+        <Filename Value="FileDownloader.lpr"/>
+        <Caret Line="53" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="formdownloadprogress.pas"/>
+        <Caret Line="41" Column="9" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="formdownloadprogress.pas"/>
+        <Caret Line="42" Column="3" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="formdownloadprogress.pas"/>
+        <Caret Line="41" Column="3" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="udownload.pas"/>
+        <Caret Line="37" Column="28" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="41" Column="64" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="159" Column="5" TopLine="159"/>
+      </Position>
+      <Position>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="174" Column="12" TopLine="164"/>
+      </Position>
+      <Position>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="171" TopLine="164"/>
+      </Position>
+      <Position>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="170" Column="5" TopLine="161"/>
+      </Position>
+      <Position>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="41" Column="53" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="formabout.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="formabout.pas"/>
+        <Caret Line="2"/>
+      </Position>
+      <Position>
+        <Filename Value="formabout.pas"/>
+        <Caret Line="2"/>
+      </Position>
+      <Position>
+        <Filename Value="formabout.pas"/>
+        <Caret Line="38" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="formabout.pas"/>
+        <Caret Line="37" Column="6" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="formabout.pas"/>
+        <Caret Line="39" Column="6" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="formabout.pas"/>
+        <Caret Line="38" Column="6" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="mainform.pas"/>
+        <Caret Line="256" Column="39" TopLine="249"/>
+      </Position>
+      <Position>
+        <Filename Value="versionsupport.pas"/>
+        <Caret Line="76" Column="40" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="versionsupport.pas"/>
+        <Caret Line="264" Column="5" TopLine="257"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
